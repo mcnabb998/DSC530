@@ -5,9 +5,9 @@ This project explores the factors involved in bear incidents across North Americ
 
 ### Contents
 This repository contains the following files:
-- **`Bear_Incident_Analysis_Presentation.pptx`**: PowerPoint presentation summarizing the project’s goals, methodology, key findings, and conclusions.
-- **`bear_incidents_dataset.csv`**: The dataset of bear incidents in North America, including variables such as Age, Year, Type (wild or captive), Type of Bear, and incident outcomes.
-- **`Bear_Incident_Analysis_Notebook.ipynb`**: Jupyter notebook that contains the full exploratory data analysis (EDA), statistical tests, and logistic regression analysis conducted for this project.
+- **`McNabbDSC530TermProjectpowerpoint.pptx`**: PowerPoint presentation summarizing the project’s goals, methodology, key findings, and conclusions.
+- **`archive (3).zip`**: The dataset of bear incidents in North America, including variables such as Age, Year, Type (wild or captive), Type of Bear, and incident outcomes.
+- **`mcnabbdsc530TermProject.ipynb`**: Jupyter notebook that contains the full exploratory data analysis (EDA), statistical tests, and logistic regression analysis conducted for this project.
 
 ### Project Hypothesis
 The hypothesis tested in this project is:
